@@ -1,4 +1,4 @@
-# meetingscheduler
+# Meeting Scheduler
 This is a simple Restful API for scheduling meetings where users can schedule meetings, cancel meetings, and query meetings.
 
 # Screenshot
