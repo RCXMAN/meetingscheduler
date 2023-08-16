@@ -9,12 +9,18 @@ meeting-room-controller:
 <img width="1475" alt="image" src="https://github.com/RCXMAN/meetingscheduler/assets/36804741/934cbfd7-501d-47f4-a8de-868b980d7bac">
 
 # Features
-* qucik schedule meeting: The meeting creator provides participants and meeting time. The system automatically arranges a suitable meeting room and create the meeting.
-* normal schedule meeting: The meeting creator specifies a meeting room to create the meeting.
-* query user meetings: Query meetings of a user by day, month or year.
-* query room meetings: Query meetings of a room by day, month or year.
-* canel a meeting: Cancel a meeting by meeting creator
-* canel a meeting due to maintenance: If the conference room needs to be repaired during a certain time period, cancel all meetings for that time period and notify the participants
+* Qucik schedule meeting:
+the meeting creator provides participants and meeting time. The system automatically arranges a suitable meeting room and create the meeting.
+* Normal schedule meeting
+The meeting creator specifies a meeting room to create the meeting.
+* Query user meetings:
+Query meetings of a user by day, month or year.
+* Query room meetings:
+Query meetings of a room by day, month or year.
+* Canel a meeting:
+Cancel a meeting by meeting creator
+* Canel a meeting due to maintenance:
+If the conference room needs to be repaired during a certain time period, cancel all meetings for that time period and notify the participants
 
 # Built With
 * Java 17
